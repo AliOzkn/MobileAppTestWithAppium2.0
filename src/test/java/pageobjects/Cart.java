@@ -12,7 +12,6 @@ public class Cart extends Helper {
     WebElement continueWithoutAMemberBtn;
     @AndroidFindBy(xpath = "//android.widget.EditText[@text='E-posta Adresiniz']")
     WebElement email;
-   // @AndroidFindBy(xpath = "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[2]/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[1]")
     @AndroidFindBy(xpath = "(//android.view.ViewGroup[@index='1'])[4]")
     WebElement confirmationBtn;
     @AndroidFindBy(xpath = "//android.widget.TextView[@text='GÖNDER']")
