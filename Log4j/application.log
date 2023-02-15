@@ -1,0 +1,6 @@
+2023-02-15 16:28:46 INFO  Log:11 - ======== Start : MobileAppTestWithAppium2.0 ========
+2023-02-15 16:28:54 INFO  Log:11 - verifySuccessfulPurchaseSteps Started
+2023-02-15 16:28:54 INFO  Log:11 - 
+2023-02-15 16:30:07 INFO  Log:11 - verifySuccessfulPurchaseSteps Passed
+2023-02-15 16:30:07 INFO  Log:11 - -----------------------
+2023-02-15 16:30:07 INFO  Log:11 - ======== Finish : MobileAppTestWithAppium2.0 ========

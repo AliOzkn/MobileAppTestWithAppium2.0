@@ -1,0 +1,11 @@
+<suite name="Mobile App Test With Appium 2.0">
+    <listeners>
+        <listener class-name="TestComponents.Listener"/>
+    </listeners>
+    <test name="Signup Test">
+        <classes>
+         <class name="scenarios.ProductE2ETest"/>
+        </classes>
+    </test>
+
+</suite>
